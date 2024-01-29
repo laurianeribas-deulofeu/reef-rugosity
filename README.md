@@ -36,8 +36,6 @@ Our calculations (Files S1 A & B) used the roughness index Rq, representing the 
 	<em> (Equation 1)</em>, <br> with l = transect length; and m = l/n; in this study, l = 20 m
 </p>
 
-
-
 <strong><em>Virtual Chain Index</strong></em><br>
 To compare our method with commonly used rugosity methods, we computed the expected rugosity of our transects with the chain method. Our “virtual chain index” (Equation 2) was calculated as follows:<br>
 <p>
