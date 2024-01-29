@@ -1,13 +1,13 @@
 
 <h1>Data from: Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles</h1>
-<em>Lauriane Ribas-Deulofeu^1,2,3†^, Pierre-Alexandre Château4, Vianney Denis5 and Chaolun Allen Chen1,2,3,6 *</em>
+<em>Lauriane Ribas-Deulofeu<sup>1,2,3†</sup>, Pierre-Alexandre Château<sup>4</sup>, Vianney Denis<sup>5</sup> and Chaolun Allen Chen<sup>1,2,3,6</sup>*</em>
 
-1Biodiversity Research Center, Academia Sinica, Taipei, Taiwan,<br>
-2Taiwan International Graduate Program-Biodiversity, Academia Sinica, Taipei, Taiwan,<br>
-3Department of Life Science, National Taiwan Normal University, Taipei, Taiwan,<br>
-4Department of Marine Environment and Engineering, National Sun Yat-sen University, Kaohsiung, Taiwan,<br>
-5Institute of Oceanography, National Taiwan University, Taipei, Taiwan,<br>
-6Department of Life Science, Tunghai University, Taichung, Taiwan<br>
+<sup>1</sup>Biodiversity Research Center, Academia Sinica, Taipei, Taiwan,<br>
+<sup>2</sup>Taiwan International Graduate Program-Biodiversity, Academia Sinica, Taipei, Taiwan,<br>
+<sup>3</sup>Department of Life Science, National Taiwan Normal University, Taipei, Taiwan,<br>
+<sup>4</sup>Department of Marine Environment and Engineering, National Sun Yat-sen University, Kaohsiung, Taiwan,<br>
+<sup>5</sup>Institute of Oceanography, National Taiwan University, Taipei, Taiwan,<br>
+<sup>6</sup>Department of Life Science, Tunghai University, Taichung, Taiwan<br>
 <hr>
 
 <h2><strong><em>Overview</strong></em></h2>
@@ -41,13 +41,13 @@ with virtual chain link size corresponding to the depth profile resolution of th
 
 <h2><strong><em>Citation</strong></em></h2>
 If you find this dataset or methodology useful, please cite the associated paper:<br>
-Ribas-Deulofeu L, Château P-A, Denis V and Chen CA (2021) Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles. Front. Mar. Sci. 8:675853.  <a href="doi: 10.3389/fmars.2021.675853" target="_blank">https://www.frontiersin.org/articles/10.3389/fmars.2021.675853/full</a>.<br>
+Ribas-Deulofeu L, Château P-A, Denis V and Chen CA (2021) Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles. Front. Mar. Sci. 8:675853.  <a href="https://www.frontiersin.org/articles/10.3389/fmars.2021.675853/full" target="_blank">doi: 10.3389/fmars.2021.675853</a>.<br>
 
 <h2><strong><em>License</strong></em></h2>
 This dataset and Python program are available under the Creative Commons Attribution License (CCBY). The use, distribution, or reproduction in other forums is permitted, provided the original authors and that the original publication is cited, per accepted academic practice.<br>
 
 <h2><strong><em>References</strong></em></h2>
-Dustan, P., Doherty, O., and Pardede, S. (2013). Digital Reef Rugosity Estimates Coral Reef Habitat Complexity. PLoS One 8, e57386.  <a href="doi:10.1371/journal.pone.0057386" target="_blank">[https://doi.org/your-doi-number](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057386)</a>.<br>
+Dustan, P., Doherty, O., and Pardede, S. (2013). Digital Reef Rugosity Estimates Coral Reef Habitat Complexity. PLoS One 8, e57386.  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057386)" target="_blank">doi:10.1371/journal.pone.0057386</a>.<br>
 Fofonoff, N. P., and Millard, R. C. (1983). Algorithms for computation of fundamental properties of seawater. UNESCO Available at: https://development.oceanbestpractices.net/handle/11329/109 [Accessed October 14, 2019].<br>
 Ribas-Deulofeu L, Château P-A, Denis V and Chen CA (2021) Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles. Front. Mar. Sci. 8:675853.  <a href="https://www.frontiersin.org/articles/10.3389/fmars.2021.675853/full" target="_blank">doi: 10.3389/fmars.2021.675853</a>.<br>
 </p>
