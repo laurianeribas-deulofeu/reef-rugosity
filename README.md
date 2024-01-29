@@ -49,5 +49,5 @@ This dataset and Python program are available under the Creative Commons Attribu
 <h2><strong><em>References</strong></em></h2>
 Dustan, P., Doherty, O., and Pardede, S. (2013). Digital Reef Rugosity Estimates Coral Reef Habitat Complexity. PLoS One 8, e57386.  <a href="doi:10.1371/journal.pone.0057386" target="_blank">[https://doi.org/your-doi-number](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057386)</a>.<br>
 Fofonoff, N. P., and Millard, R. C. (1983). Algorithms for computation of fundamental properties of seawater. UNESCO Available at: https://development.oceanbestpractices.net/handle/11329/109 [Accessed October 14, 2019].<br>
-Ribas-Deulofeu L, Château P-A, Denis V and Chen CA (2021) Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles. Front. Mar. Sci. 8:675853.  <a href="doi: 10.3389/fmars.2021.675853" target="_blank">https://www.frontiersin.org/articles/10.3389/fmars.2021.675853/full</a>.<br>
+Ribas-Deulofeu L, Château P-A, Denis V and Chen CA (2021) Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles. Front. Mar. Sci. 8:675853.  <a href="https://www.frontiersin.org/articles/10.3389/fmars.2021.675853/full" target="_blank">doi: 10.3389/fmars.2021.675853</a>.<br>
 </p>
