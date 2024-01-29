@@ -15,15 +15,15 @@
 
 <h2><strong><em>Files in the repository</strong></em></h2>
 <strong> 1. Supplementary Files 1 A & B | Python program—rugosity calculations</strong><br>
-   <blockquote> - Python script for rugosity calculations based on the proposed method </blockquote>blockquote><br>
+   <blockquote> - Python script for rugosity calculations based on the proposed method </blockquote><br>
 		<blockquote><blockquote>A. Python Program - Rugosity calculations (theoretical transects)</blockquote></blockquote><br>
-		B. Python Program - Rugosity calculations (in situ transects)<br>
+		<blockquote><blockquote>B. Python Program - Rugosity calculations (in situ transects)</blockquote></blockquote><br>
 
 <strong>2. Supplementary File - Data Sheet 2 | Depth profiles of the nine theoretical transects</strong><br>
-    - Data file containing depth profiles of nine theoretical transects.<br>
+    <blockquote> - Data file containing depth profiles of nine theoretical transects. </blockquote><br>
 
 <strong>3. Supplementary File - Data Sheet 3 | Depth profiles of the 50 in situ transects</strong>
-    - Data file containing depth profiles of the 50 in situ transects collected in South Taiwan.<br>
+    <blockquote> - Data file containing depth profiles of the 50 in situ transects collected in South Taiwan. </blockquote><br>
 
 <h2><strong><em>Field Survey</strong></em></h2>
 Fifty field transects were surveyed at 10 locations in Kenting National Park (KNP), South Taiwan. Transects were positioned around 5 m in depth, with a minimum depth of 1.8 m and a maximum of 10.1 m. Fine resolution depth profiles were recorded following the method proposed by Dustan et al. (2013). Pressure data were collected using a titanium HOBO water level logger, and depth profiles were obtained by converting pressure data using the formula recommended by Fofonoff and Millard (1983).<br>
