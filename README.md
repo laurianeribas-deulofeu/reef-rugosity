@@ -30,8 +30,7 @@ Fifty field transects were surveyed at 10 locations in Kenting National Park (KN
 
 <h2><strong><em> Rugosity estimations methodology</strong></em></h2>
 <strong><em>Rugosity Estimations</strong></em><br>
-Our calculations (Files S1 A & B) used the roughness index Rq, representing the Root Mean Squared deviation from the assessed surface profile. To discriminate between the contributions of fine and coarse scales of rugosity on the total rugosity profile, we adapted the Rq index (Equation 1) with polynomial functions, as follows:<br
-
+Our calculations (Files S1 A & B) used the roughness index Rq, representing the Root Mean Squared deviation from the assessed surface profile. To discriminate between the contributions of fine and coarse scales of rugosity on the total rugosity profile, we adapted the Rq index (Equation 1) with polynomial functions, as follows:<br>
 <p>
     R<sub>q</sub> = &radic;<span style="text-decoration: overline">(1/l &sum;<sub>i=1</sub><sup>n</sup> (m&times;(depth<sub>i</sub> - poly<sub>i</sub>)<sup>2</sup>)</span>       
 	<em> (Equation 1)</em>, <br> with l = transect length; and m = l/n; in this study, l = 20 m
