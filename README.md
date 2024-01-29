@@ -30,21 +30,21 @@ Fifty field transects were surveyed at 10 locations in Kenting National Park (KN
 
 <h2><strong><em> Rugosity estimations methodology</strong></em></h2>
 <strong><em>Rugosity Estimations</strong></em><br>
-Our calculations (Files S1 A & B) used the roughness index Rq, representing the Root Mean Squared deviation from the assessed surface profile. To discriminate between the contributions of fine and coarse scales of rugosity on the total rugosity profile, we adapted the Rq index (Equation 1) with polynomial functions, as follows:<br>
-R_q=√(1/l ∑_(i=1)^n▒〖m×(〖depth〗_i-〖poly〗_i)〗^2 )  (Equation 1) <br>
-with l=transect length; and m=l/n; in this study, l=20 m<br>
+Our calculations (Files S1 A & B) used the roughness index Rq, representing the Root Mean Squared deviation from the assessed surface profile. To discriminate between the contributions of fine and coarse scales of rugosity on the total rugosity profile, we adapted the Rq index (Equation 1) with polynomial functions, as follows:<br
 
 <p>
-    R<sub>q</sub> = &radic;<span style="text-decoration: overline">(1/l &sum;<sub>i=1</sub><sup>n</sup> m&times;(depth<sub>i</sub> - poly<sub>i</sub>)<sup>2</sup>)</span>
-    (Equation 1), <br> with l = transect length; and m = l/n; in this study, l = 20 m
+    R<sub>q</sub> = &radic;<span style="text-decoration: overline">(1/l &sum;<sub>i=1</sub><sup>n</sup> m&times;(depth<sub>i</sub> - poly<sub>i</sub>)<sup>2</sup>)</span>       
+         (Equation 1), <br> with l = transect length; and m = l/n; in this study, l = 20 m
 </p>
 
 
 
 <strong><em>Virtual Chain Index</strong></em><br>
 To compare our method with commonly used rugosity methods, we computed the expected rugosity of our transects with the chain method. Our “virtual chain index” (Equation 2) was calculated as follows:<br>
-Virtual chain index=1/l ∑_(i=1)^n▒〖 √((〖depth〗_i-〖depth〗_(i-1) )^2+〖m 〗^2 )  (Equation 2) 〗 <br>
-with virtual chain link size corresponding to the depth profile resolution of the transects, since m=l/n<br>
+<p>
+    Virtual chain index = 1/l &sum;<sub>i=1</sub><sup>n</sup> &radic;((depth<sub>i</sub> - depth<sub>(i-1)</sub>)<sup>2</sup> + m<sup>2</sup>)
+         (Equation 2), with virtual chain link size corresponding to the depth profile resolution of the transects, since m = l/n
+</p>
 
 <h2><strong><em>Citation</strong></em></h2>
 If you find this dataset or methodology useful, please cite the associated paper:<br>
