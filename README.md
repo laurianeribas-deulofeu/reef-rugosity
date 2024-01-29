@@ -13,10 +13,10 @@
 <h2><strong><em>Overview</strong></em></h2>
 <p>This repository contains the dataset and Python program used in the study published in Frontiers in Marine Science titled "Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles." The research focuses on estimating reef structural complexity through the analysis of fine and coarse scales of rugosity using high-resolution depth profiles.</p><br>
 
-<p><strong>Files in the repository</strong><br>
+<h2><strong><em>Files in the repository</strong></em></h2>
 <strong> 1. Supplementary Files 1 A & B | Python program—rugosity calculations</strong><br>
-    - Python script for rugosity calculations based on the proposed method <br>
-		A. Python Program - Rugosity calculations (theoretical transects)<br>
+   <blockquote> - Python script for rugosity calculations based on the proposed method </blockquote>blockquote><br>
+		<blockquote><blockquote>A. Python Program - Rugosity calculations (theoretical transects)</blockquote></blockquote><br>
 		B. Python Program - Rugosity calculations (in situ transects)<br>
 
 <strong>2. Supplementary File - Data Sheet 2 | Depth profiles of the nine theoretical transects</strong><br>
