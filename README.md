@@ -1,5 +1,5 @@
 
-<h1>Data from: Portraying Gradients of Structural Complexity in Coral Reefs Using Fine-Scale Depth Profiles</h1>
+<h1>Data from: Portraying gradients of structural complexity in coral reefs using fine-scale depth profiles</h1>
 <em>Lauriane Ribas-Deulofeu<sup>1,2,3†</sup>, Pierre-Alexandre Château<sup>4</sup>, Vianney Denis<sup>5</sup> and Chaolun Allen Chen<sup>1,2,3,6</sup>*</em>
 
 <sup>1</sup>Biodiversity Research Center, Academia Sinica, Taipei, Taiwan,<br>
